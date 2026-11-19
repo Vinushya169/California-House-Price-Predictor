@@ -104,7 +104,7 @@ California-House-Price-Predictor/
 ├── http://README.md               # Project Documentation
 └── .gitignore              # Git Ignore File
 
-## 💻 Installation
+💻 Installation
 
 Follow these steps to run the project on your local machine:
 
@@ -137,7 +137,7 @@ The app will open automatically in your browser at `http://localhost:8501`
 > Input: Income = 5.0, House Age = 20, Rooms = 5, Location = Los Angeles
 > Output: Predicted Price = $280,000
 
-## 📈 Model Performance
+ 📈 Model Performance
 Metric | Score
 **R² Score** | 0.82
 **Mean Absolute Error** | ~ $35,000
@@ -145,7 +145,7 @@ Metric | Score
 **Testing Data** | 4,128 houses
 _The model explains 82% of the price variation, which is excellent for real estate data._
 
-## 🔮 Future Improvements
+ 🔮 Future Improvements
 
 - [ ] Add Map Visualization to show house location on Google Maps
 - [ ] Add Comparison Feature - Compare 2 houses side-by-side
@@ -153,21 +153,21 @@ _The model explains 82% of the price variation, which is excellent for real esta
 - [ ] Deploy as Mobile App using Flutter
 - [ ] Add User Login to save predictions
 
-## 👩‍💻 Author
+ 👩‍💻 Author
 
-*Vinushya*
-- http://B.Tech Student | Aspiring Data Scientist & AI Developer
+ Vinushya.M
+- B.E CSE Student | Aspiring Data Scientist & AI Developer
 - Passionate about Machine Learning and Building Real-World Projects
 
 *Connect With Me:*
 - GitHub: https://github.com/Vinushya169
 - LinkedIn: https://www.linkedin.com/in/vinushya-m-80b92b400
 
-## 📄 License
+ 📄 License
 
 This project is open source and available under the [MIT License](LICENSE).
 
-## ⭐ Show Your Support
+⭐ Show Your Support
 
 If you like this project, please give it a ⭐ on GitHub!
 
